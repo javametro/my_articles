@@ -1,0 +1,3 @@
+get-appxprovisionedpackage -online | remove-appxprovisionedpackage -online
+
+dism /online /Add-ProvisionedPackage /PackagePath:C:\APSETUP\mkrcvcd\mkrcvcd.appx /SkipLicense
