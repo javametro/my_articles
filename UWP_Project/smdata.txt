@@ -2,3 +2,7 @@ L6AARD1110 -> 0.0.0.1
 	create a new module for smdata. version start
 L6AARD1210 -> 0.0.0.2
 	add uwp icon for smdata uwp
+
+
+to do:
+1, merge joc strings to existing code
