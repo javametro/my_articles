@@ -1,0 +1,3 @@
+L6AAL61610 -> mkrcvcd_dp
+L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
+
