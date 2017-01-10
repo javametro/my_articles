@@ -1,0 +1,2 @@
+NEC - Set Metro Reg for Uncertified UWP App
+	-> LGAASY1110
