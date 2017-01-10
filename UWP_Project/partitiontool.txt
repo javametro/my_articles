@@ -5,4 +5,5 @@ PartitionToolDP
 
 
 PartitionToolUWP
+	->L6AAKD1B12 (2.0.0.0)
 	->L6AAKD1C10 (2.0.0.1) fix the bug when shrink size little than 5120
