@@ -1,0 +1,7 @@
+PartitionToolDP
+	->L6AAJH1D12
+
+
+
+PartitionToolUWP
+	->L6AAKD1C10 (2.0.0.1) fix the bug when shrink size little than 5120
