@@ -1,6 +1,7 @@
 PartitionToolDP
 	->L6AAJH1D12
 	->L6AAJH1E10 (NamePipeSer.exe add version - 1.0.0.1)
+	->L6AAJH1F10 (NamePipeSer.exe version - 1.0.0.2)
 
 
 
