@@ -10,3 +10,5 @@ PartitionToolUWP
 	->L6AAKD1D10 (2.0.0.1) re-package
 		* bcdedit set bcd failed
 		* when user can shrink size from C drive is little than 5125MB, tools shutdown.
+		* partition tool dp control panel show should changed to japanese & Dependency Package
+		* temp files should generated in C:\Users\Public\Documents\PartitionTool\
