@@ -15,3 +15,5 @@ PartitionToolUWP
 		* temp files should generated in C:\Users\Public\Documents\PartitionTool\
 	->L6AAKD1E10 (2.0.0.1) re-package
 		* fix the issues in L6AAKD1D10
+	->L6AAKD1F10 (2.0.0.1) re-package
+		* fix the problem when user shrink volume by the times of canShrinksize little than 5120
