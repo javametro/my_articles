@@ -18,3 +18,5 @@ PartitionToolUWP
 		* fix the issues in L6AAKD1D10
 	->L6AAKD1F10 (2.0.0.1) re-package
 		* fix the problem when user shrink volume by the times of canShrinksize little than 5120
+	->L6AAKD1G10 (2.0.0.2) 
+		* add the restart choice for user when user operation is done.
