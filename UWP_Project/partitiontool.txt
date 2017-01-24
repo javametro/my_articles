@@ -20,3 +20,6 @@ PartitionToolUWP
 		* fix the problem when user shrink volume by the times of canShrinksize little than 5120
 	->L6AAKD1G10 (2.0.0.2) 
 		* add the restart choice for user when user operation is done.
+	->L6AAKD1J10 (2.0.0.2)
+		* repackage
+		* fix the problem when two winre exist or WinRE_DRV is not exist.
