@@ -1,0 +1,10 @@
+git init  现场创建版本库
+
+# 添加文件并提交
+git add -A
+git commit -m "initialized"
+
+为初始提交建立一个里程碑
+git tag v1
+
+git commit -a 
