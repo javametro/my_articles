@@ -8,3 +8,6 @@ git commit -m "initialized"
 git tag v1
 
 git commit -a 
+
+page 98/627
+chapter 5 Git Stash
