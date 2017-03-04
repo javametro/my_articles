@@ -1,0 +1,8 @@
+First line in nefile.
+Second line in newfile
+
+total 16
+-rw-rw-r-- 1 stephen stephen  34 Feb 19 10:16 mycommands
+-rw-rw-r-- 1 stephen stephen 122 Feb 19 10:45 myfile
+-rw-rw-r-- 1 stephen stephen  45 Feb 19 10:43 newfile
+-rw-rw-r-- 1 stephen stephen  24 Feb 19 10:24 output
