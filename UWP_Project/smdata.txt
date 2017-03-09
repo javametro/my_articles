@@ -3,6 +3,9 @@ L6AARD1110 -> 0.0.0.1
 L6AARD1210 -> 0.0.0.2
 	add uwp icon for smdata uwp
 
+L6AARD1310 -> 0.0.0.1
+	use the icon from nec
+
 
 to do:
 1, merge joc strings to existing code
