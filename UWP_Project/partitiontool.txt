@@ -24,3 +24,5 @@ PartitionToolUWP
 	->L6AAKD1J10 (2.0.0.2)
 		* repackage
 		* fix the problem when two winre exist or WinRE_DRV is not exist.
+	->L6AAKD1K10 (2.0.0.3)
+		* add icon from nec
