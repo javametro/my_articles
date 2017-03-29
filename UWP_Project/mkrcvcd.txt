@@ -3,3 +3,4 @@ L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
 L6AAL71D10 -> mkrcvcd_uwp (1.6.4.0)  fix the problem when C Drive is not max drive, the temp folder not hidden.
 L6AAL71E10 -> mkrcvcd_uwp (1.6.4.0) fix the bug enter key not response.
 L6AAL71F10 -> mkrcvcd_uwp (1.6.8.0) add icon from nec.
+L6AAL71G10 -> mkrcvcd_uwp (1.6.8.0) use latest baseimage-15063.wim to convert
