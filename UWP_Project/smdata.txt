@@ -9,6 +9,8 @@ L6AARD1310 -> 0.0.0.1
 L6AARD1410 -> 0.0.0.3
 	use the latest baseimage-15063.wim to convert
 
+L6AARD1510 -> 0.0.0.4
+	package the icon files from nec
 
 to do:
 1, merge joc strings to existing code

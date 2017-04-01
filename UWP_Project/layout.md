@@ -10,3 +10,9 @@
 		smdata -> 0.0.0.1
 		partition tool -> 2.0.0.3
 		mkrcvcd -> 1.6.8.0
+
+4. L6C3KF10
+	->update for 3 si uwp tools to pin metro.
+		smdata -> 0.0.0.4
+		partition tool -> 2.0.0.3
+		mkrcvcd -> 1.6.9.0
