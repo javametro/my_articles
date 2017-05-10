@@ -16,3 +16,6 @@
 		smdata -> 0.0.0.4
 		partition tool -> 2.0.0.3
 		mkrcvcd -> 1.6.9.0
+
+5.L6AA561310
+	->update layout module for 173Q consumer
