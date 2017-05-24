@@ -4,6 +4,7 @@ PartitionToolDP
 	->L6AAJH1F10 (NamePipeSer.exe version - 1.0.0.2)
 	->L6AAJH1G10 (update Create-Winre-Par.cmd & Check-C-Par.cmd)
 	->L6AAJH1H10 (update Check-WinRE.cmd)
+	->L6AAJH1I10 (update installer name)
 
 
 
