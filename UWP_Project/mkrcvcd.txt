@@ -8,3 +8,4 @@ L6AAL71E10 -> mkrcvcd_uwp (1.6.4.0) fix the bug enter key not response.
 L6AAL71F10 -> mkrcvcd_uwp (1.6.8.0) add icon from nec.
 L6AAL71G10 -> mkrcvcd_uwp (1.6.8.0) use latest baseimage-15063.wim to convert
 L6AAL71H10 -> mkrcvcd_uwp (1.6.9.0) package the icon files from nec
+L6AAL71I10 -> mkrcvcd_uwp (1.7.0.0) change directory from mkrcvcd_dp to MkrcvcdLibrary

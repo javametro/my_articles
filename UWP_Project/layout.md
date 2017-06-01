@@ -19,3 +19,8 @@
 
 5.L6AA561310
 	->update layout module for 173Q consumer
+
+6.L6AA561510
+	->update for 2 si uwp tools to pin metro.
+		partition tool -> 2.0.0.5
+		mkrcvcd -> 1.7.0.0
