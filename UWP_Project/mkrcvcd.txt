@@ -1,5 +1,6 @@
 L6AAL61610 -> mkrcvcd_dp (MKRCVCDSER.exe 1.0.0.2)
 L6AAL61710 -> installer change name
+L6AAL61810 -> change service name
 -------------------------------------------------------
 L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
 L6AAL71D10 -> mkrcvcd_uwp (1.6.4.0)  fix the problem when C Drive is not max drive, the temp folder not hidden.
