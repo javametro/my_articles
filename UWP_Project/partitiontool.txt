@@ -7,6 +7,7 @@ PartitionToolDP
 	->L6AAJH1I10 (update installer name)
 	->L6AAJH1J10 (update ParToolDP.exe for change the install folder, package version to 2.0.0.2)
 	->L6AAJH1J10 change service name
+	->L6AAJH1L10 repackage
 
 
 
@@ -31,3 +32,4 @@ PartitionToolUWP
 		* add icon from nec
 	->L6AAKD1L10 (2.0.0.5)
 		* change directory from NECWinPartitionDP -> NECWinPartitionLibrary
+	->L6AAKD1M10 (repackage)
