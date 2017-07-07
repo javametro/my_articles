@@ -12,5 +12,8 @@ L6AARD1410 -> 0.0.0.3
 L6AARD1510 -> 0.0.0.4
 	package the icon files from nec
 
+L6AARD1612 -> 0.0.0.4
+	add lastaudit3 process
+
 to do:
 1, merge joc strings to existing code
