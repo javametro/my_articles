@@ -15,5 +15,8 @@ L6AARD1510 -> 0.0.0.4
 L6AARD1612 -> 0.0.0.4
 	add lastaudit3 process
 
+L6AARD1712 -> 0.0.0.4
+	repackage, modify the lastaudit3 process
+
 to do:
 1, merge joc strings to existing code
