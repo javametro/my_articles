@@ -8,6 +8,7 @@ PartitionToolDP
 	->L6AAJH1J10 (update ParToolDP.exe for change the install folder, package version to 2.0.0.2)
 	->L6AAJH1J10 change service name
 	->L6AAJH1L10 repackage
+	->L6AAJH1M12 NamePipeSer.exe change to x64 version to fix the hdd recovery can't enter issue.
 
 
 
