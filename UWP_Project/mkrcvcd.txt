@@ -3,6 +3,7 @@ L6AAL61710 -> installer change name
 L6AAL61810 -> change service name
 L6AAL61910 -> delete not need start menu entry point. 
 L6AAL61A12 -> update version to 2.0.0.3, modify the sign package name
+L6AAL61B12 -> update mkrcvcd service name.
 -------------------------------------------------------
 L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
 L6AAL71D10 -> mkrcvcd_uwp (1.6.4.0)  fix the problem when C Drive is not max drive, the temp folder not hidden.
