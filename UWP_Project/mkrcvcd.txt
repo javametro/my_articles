@@ -16,3 +16,4 @@ L6AAL71J12 -> mkrcvcd_uwp (1.7.1.0) change initial page message & logic
 L6AAL71K12 -> mkrcvcd_uwp (1.7.2.0) fix bug 30546, 30537, 30535
 L6AAL71L12 -> mkrcvcd_uwp (1.7.3.0) modify message from mona
 L6AAL71M12 -> mkrcvcd_uwp (1.7.4.0) modify "CBS Load fail" message.
+L6AAL71N12 -> mkrcvcd_uwp (1.7.5.0) modify "StoreContentModifier" issue.
