@@ -30,3 +30,6 @@
 
 8.L6AA561712
 	->update mkrcvcd -> 1.7.5.0
+
+9.L6AA561812
+	->update mkrcvcd -> 1.7.6.0
