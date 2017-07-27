@@ -36,3 +36,6 @@
 
 10.L6AA561910
 	-> update mkrcvcd Package Name -> 1.7.6.0
+
+11.L6AA561A10
+	-> update mkrcvcd -> 1.7.7.0
