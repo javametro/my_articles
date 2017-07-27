@@ -19,3 +19,4 @@ L6AAL71M12 -> mkrcvcd_uwp (1.7.4.0) modify "CBS Load fail" message.
 L6AAL71N12 -> mkrcvcd_uwp (1.7.5.0) modify "StoreContentModifier" issue.
 L6AAL71O12 -> mkrcvcd_uwp (1.7.5.0) repackage 1.7.5.0
 L6AAL71P12 -> mkrcvcd_uwp (1.7.6.0) modify Start Page Message.
+L6AAL71Q10 -> mkrcvcd_uwp (1.7.6.0) change Package Name
