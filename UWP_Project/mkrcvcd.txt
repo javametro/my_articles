@@ -22,3 +22,4 @@ L6AAL71P12 -> mkrcvcd_uwp (1.7.6.0) modify Start Page Message.
 L6AAL71Q10 -> mkrcvcd_uwp (1.7.6.0) change Package Name
 L6AAL71R10 -> mkrcvcd_uwp (1.7.7.0) modify use 2G not support, and modify the message hasn't new line.
 L6AAL71S12 -> mkrcvcd_uwp (1.7.7.0) modify uwp appx display name.
+L6AAL71U10 -> mkrcvcd_uwp (1.7.7.0) logo'd by ms version
