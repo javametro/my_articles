@@ -24,3 +24,4 @@ L6AAL71R10 -> mkrcvcd_uwp (1.7.7.0) modify use 2G not support, and modify the me
 L6AAL71S12 -> mkrcvcd_uwp (1.7.7.0) modify uwp appx display name.
 L6AAL71U10 -> mkrcvcd_uwp (1.7.7.0) logo'd by ms version
 L6AAL71V10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set metro.reg
+L6AAL71W10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set digital certificate.
