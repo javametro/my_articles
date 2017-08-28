@@ -42,3 +42,6 @@
 
 12.L6AA561B10
 	-> update smdata for logo -> 1.7.7.0
+
+13.L6AA561G10
+	-> update mkrcvcd -> 1.8.1.0
