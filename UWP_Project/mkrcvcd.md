@@ -1,3 +1,9 @@
+### UWP Module List
+
+* Concerns
+1, Bill use the mkrcvcd.png in C:\Program Files (x86)\Softnavi\icon to build Layout Module
+
+
 L6AAL61610 -> mkrcvcd_dp (MKRCVCDSER.exe 1.0.0.2)
 L6AAL61710 -> installer change name
 L6AAL61810 -> change service name
@@ -24,3 +30,6 @@ L6AAL71R10 -> mkrcvcd_uwp (1.7.7.0) modify use 2G not support, and modify the me
 L6AAL71S12 -> mkrcvcd_uwp (1.7.7.0) modify uwp appx display name.
 L6AAL71U10 -> mkrcvcd_uwp (1.7.7.0) logo'd by ms version
 L6AAL71V10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set metro.reg
+L6AAL71W10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set digital certificate.
+L6AAL71X10 -> mkrcvcd_uwp (1.8.0.0) fix bugs: 30535, 30548, 30558, add about box 
+
