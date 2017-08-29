@@ -11,6 +11,11 @@
 *L6AAL61910 -> delete not need start menu entry point. 
 *L6AAL61A12 -> update version to 2.0.0.3, modify the sign package name
 *L6AAL61B12 -> update mkrcvcd service name.
+
+
+ProductCode->
+	2.0.1.0 -> {E2227D63-0A8C-4217-8299-F0C9CB3E5CAA}
+
 *-------------------------------------------------------
 *L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
 *L6AAL71D10 -> mkrcvcd_uwp (1.6.4.0)  fix the problem when C Drive is not max drive, the temp folder not hidden.
@@ -34,4 +39,5 @@
 *L6AAL71W10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set digital certificate.
 *L6AAL71X10 -> mkrcvcd_uwp (1.8.0.0) fix bugs: 30535, 30548, 30558, add about box 
 *L6AAL71Y10 -> mkrcvcd_uwp (1.8.1.0) fix: add space to title; 
+
 
