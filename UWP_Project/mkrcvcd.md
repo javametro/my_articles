@@ -35,4 +35,5 @@
 - L6AAL71W10 -> mkrcvcd_uwp (1.7.7.0) delete the process to set digital certificate.
 - L6AAL71X10 -> mkrcvcd_uwp (1.8.0.0) fix bugs: 30535, 30548, 30558, add about box 
 - L6AAL71Y10 -> mkrcvcd_uwp (1.8.1.0) fix: add space to title; 
+- L6AAL71Z10 -> mkrcvcd_uwp (1.8.1.0) ms logo'd
 
