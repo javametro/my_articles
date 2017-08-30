@@ -1,8 +1,8 @@
 # UWP Module List
 
 ## Concerns
-1, Bill use the mkrcvcd.png in C:\Program Files (x86)\Softnavi\icon to build Layout Module
-2, mkrcvcd library generated logs also exist in mkrcvcd_dp folder, it's need to change.
+- Bill use the mkrcvcd.png in C:\Program Files (x86)\Softnavi\icon to build Layout Module
+- mkrcvcd library generated logs also exist in mkrcvcd_dp folder, it's need to change.
 
 ## MKRCVCD Library
 - L6AAL61610 -> mkrcvcd_dp (MKRCVCDSER.exe 1.0.0.2)
