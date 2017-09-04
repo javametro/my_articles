@@ -34,6 +34,7 @@ main(){
 			free(array);
 			exit(EXIT_FAILURE);
 		}
+		printf("\n");
 	}
 
 	qsort(array, n_values, sizeof(int), compare_integers);
