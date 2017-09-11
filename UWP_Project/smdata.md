@@ -9,6 +9,9 @@
 - L6AARD1712 -> 0.0.0.4 repackage, modify the lastaudit3 process
 - L6AARD1810 -> 1.0.2.0 ms logo'd version.
 - L6AARD1A10 -> 1.0.2.0 delete the process to set metro.reg.
+- L6AARD1F10 -> 4.2.2.0 add aboutbox to show version info and copyright. not logo'd
+- L6AARD1G12 -> 4.2.2.0 repackage
+- L6AARD1I10 -> 4.2.2.0 repackage for maisy test.
 
 ## to do:
 - merge joc strings to existing code
