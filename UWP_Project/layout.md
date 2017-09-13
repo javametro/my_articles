@@ -45,3 +45,6 @@
 
 13.L6AA561G10
 	-> update mkrcvcd -> 1.8.1.0
+
+14.L6AA561I10
+	-> update smdata -> 4.2.2.0
