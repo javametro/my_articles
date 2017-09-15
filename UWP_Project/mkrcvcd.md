@@ -41,5 +41,6 @@ ProductCode->
 - L6AAL71X10 -> mkrcvcd_uwp (1.8.0.0) fix bugs: 30535, 30548, 30558, add about box 
 - L6AAL71Y10 -> mkrcvcd_uwp (1.8.1.0) fix: add space to title; 
 - L6AAL71Z10 -> mkrcvcd_uwp (1.8.1.0) ms logo'd
+- L6AAL72110 -> mkrcvcd_uwp (1.8.2.0) fix: CancelAutoPlay
 
 
