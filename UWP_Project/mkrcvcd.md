@@ -43,5 +43,6 @@ ProductCode->
 - L6AAL71Y10 -> mkrcvcd_uwp (1.8.1.0) fix: add space to title; 
 - L6AAL71Z10 -> mkrcvcd_uwp (1.8.1.0) ms logo'd
 - L6AAL72110 -> mkrcvcd_uwp (1.8.2.0) fix: CancelAutoPlay
+- L6AAL72210 -> mkrcvcd_uwp (1.8.2.0) last page in make usb, setfocus to create done.
 
 
