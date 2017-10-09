@@ -49,5 +49,6 @@
 - L6AAL72210 -> mkrcvcd_uwp (1.8.2.0) last page in make usb, setfocus to create done.
 - L6AAL72310 -> mkrcvcd_uwp (1.8.2.0) modify the copy file mkrcvcd.png path.
 - L6AAL72410 -> mkrcvcd_uwp (1.8.2.0) ms logo'd
+- L6AAL72510 -> mkrcvcd_uwp (1.8.2.0) ms logo'd, save the mkrcvcd.png
 
 
