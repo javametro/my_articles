@@ -16,8 +16,10 @@
 - L6AAL61G10 -> update mkrcvcdser.exe & mkrcvcdDP.exe to set CancelAutoPlay, Setup.exe Version to 2.0.3.0
 - L6AAL61H10 -> update SetAutoPlayReg.exe & UnsetAutoPlayReg.ext to version 1.0.0.1
 - L6AAL61I10 -> L6AAL61H10 version for Conan
-ProductCode->
-	2.0.1.0 -> {E2227D63-0A8C-4217-8299-F0C9CB3E5CAA}
+
+## ProductCode
+- 2.0.1.0 -> {E2227D63-0A8C-4217-8299-F0C9CB3E5CAA}
+- 2.0.3.0 -> {E2227D63-0A8C-4217-8299-F0C9CB3E5CAA}
 
 ## MKRCVCD UWP
 - L6AAL71C10 -> mkrcvcd_uwp (1.6.3.0)
