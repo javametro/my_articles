@@ -12,6 +12,7 @@
 - L6AARD1F10 -> 4.2.2.0 add aboutbox to show version info and copyright. not logo'd
 - L6AARD1G12 -> 4.2.2.0 repackage
 - L6AARD1I10 -> 4.2.2.0 repackage for maisy test.
+- L6AARD1K10 -> 4.2.2.0 logo'd module
 
 ## to do:
 - merge joc strings to existing code
