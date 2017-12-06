@@ -52,5 +52,7 @@
 - L6AAL72310 -> mkrcvcd_uwp (1.8.2.0) modify the copy file mkrcvcd.png path.
 - L6AAL72410 -> mkrcvcd_uwp (1.8.2.0) ms logo'd
 - L6AAL72510 -> mkrcvcd_uwp (1.8.2.0) ms logo'd, save the mkrcvcd.png
+- L6AAL72610 -> mkrcvcd_uwp (1.8.3.4) not ms logo'd, modify jp message 
+- L6AAL72710 -> mkrcvcd_uwp (1.8.4.0) not ms logo'd, upgrade version 
 
 
