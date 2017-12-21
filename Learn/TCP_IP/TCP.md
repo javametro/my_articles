@@ -23,3 +23,9 @@ TCP
 socket选项
 SO_REUSEADDR
 SO_LINGER
+
+交互数据，成块数据
+
+Nagle算法
+
+
