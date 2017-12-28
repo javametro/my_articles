@@ -11,4 +11,7 @@ Desktop.ini
 dist
 build
 
+#java
+*.class
+
 
