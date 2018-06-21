@@ -14,4 +14,7 @@ build
 #java
 *.class
 
+#c++
+*.out
+
 
