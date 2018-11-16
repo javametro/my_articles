@@ -1,0 +1,10 @@
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\bin\Debug\Test_UIAutomation.exe.config
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\bin\Debug\Test_UIAutomation.exe
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\bin\Debug\Test_UIAutomation.pdb
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.Form1.resources
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.Properties.Resources.resources
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.csproj.GenerateResource.cache
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.csproj.CoreCompileInputs.cache
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.exe
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.pdb
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Test_UIAutomation\obj\Debug\Test_UIAutomation.csprojAssemblyReference.cache
