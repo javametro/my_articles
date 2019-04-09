@@ -1,0 +1,7 @@
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\bin\Debug\Controller.exe.config
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\bin\Debug\Controller.exe
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\bin\Debug\Controller.pdb
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\obj\Debug\Controller.exe
+C:\GithubRepository\my_library\UIAutomation\Test_UIAutomation\Controller\obj\Debug\Controller.pdb
